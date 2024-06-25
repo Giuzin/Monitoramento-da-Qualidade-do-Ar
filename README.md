@@ -25,7 +25,7 @@ O dispositivo coleta dados de diversos sensores e os envia para um banco de dado
 
 - Email: giuliano.pirrs@gmail.com
 - LinkedIn: (www.linkedin.com/in/giuliano-timpanari-0132a6243)
-- GitHub: ()
+- GitHub: (https://github.com/Giuzin/Reposit-rio-Giuliano-)
 
 ---
 
